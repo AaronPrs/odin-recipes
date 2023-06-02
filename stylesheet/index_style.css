@@ -1,3 +1,11 @@
 html{
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.recipes {
+    background-color: hsl(10, 0, 50%);
+}
+
+a:link{
+    color: black;
+}
