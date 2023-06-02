@@ -2,10 +2,11 @@ html{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.recipes {
+li {
     background-color: hsl(10, 0, 50%);
 }
 
 a:link{
     color: black;
+    text-decoration: none;
 }
